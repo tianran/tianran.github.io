@@ -1,4 +1,4 @@
-<div style="float:left">![photo](/photo.jpg)</div>
+![photo](/photo.jpg)
 ### Biography
 * 2014 -- Now: *Research Assistant Professor*, [Communication Science Laboratory](http://www.cl.ecei.tohoku.ac.jp), Graduate School of Information Sciences, Tohoku University, Japan. 
 * 2012 -- 2014: *Project Researcher*, Research Center for Community Knowledge, [National Institute of Informatics](http://www.nii.ac.jp/en/), Japan. 
@@ -16,5 +16,5 @@
 * Yubing Dong, Ran Tian, Yusuke Miyao; *Encoding Generalized Quantifiers in Dependency-based Compositional Semantics*; PACLIC 2014. [(paper)](http://aclweb.org/anthology/Y/Y14/Y14-1067.pdf) [(code)](https://github.com/tomtung/tifmo)
 * Ran Tian, Yusuke Miyao,  Takuya Matsuzaki; *Efficient Logical Inference for Semantic Processing*; ACL 2014 Workshop on Semantic Parsing (SP14). [(paper)](http://aclweb.org/anthology/W/W14/W14-2414.pdf)
 * Ran Tian, Yusuke Miyao, Takuya Matsuzaki; *Logical Inference on Dependency-based Compositional Semantics*; ACL 2014. [(paper)](http://aclweb.org/anthology/P/P14/P14-1008.pdf) [(code)](https://github.com/tianran/tifmo)
-* Ran TIAN; *The explicit calculation of Cech cohomology and an extension of Davenport’s inequality*; Quart. J. Math. Oxford  2012.
-* Ran TIAN; *The mathematical solution of a cellular automaton model which simulates traffic flow with a slow-to-start effect*; Discrete Appl. Math. 2009.
+* Ran TIAN; *The explicit calculation of Cech cohomology and an extension of Davenport’s inequality*; Quart. J. Math. Oxford  2012. [(paper)](/davenport.pdf)
+* Ran TIAN; *The mathematical solution of a cellular automaton model which simulates traffic flow with a slow-to-start effect*; Discrete Appl. Math. 2009. [(paper)](/cel.pdf)
