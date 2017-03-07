@@ -1,3 +1,4 @@
+![photo](/photo.jpg)
 ### Bio
 * 2014 -- Now: Research Assistant Professor, Communication Science Laboratory, Graduate School of Information Sciences, Tohoku University, Japan. 
 * 2012 -- 2014: Project Researcher, Research Center for Community Knowledge, National Institute of Informatics, Japan. 
