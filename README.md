@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+### Bio
+* 2014 -- Now: Research Assistant Professor, Communication Science Laboratory, Graduate School of Information Sciences, Tohoku University, Japan. 
+* 2012 -- 2014: Project Researcher, Research Center for Community Knowledge, National Institute of Informatics, Japan. 
 
-You can use the [editor on GitHub](https://github.com/tianran/tianran.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Education
+* PhD, Graduate School of Mathematical Sciences, The University of Tokyo, Japan. 2012
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tianran/tianran.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Publications
+* Ran Tian, Naoaki Okazaki, Kentaro Inui; The Mechanism of Additive Composition; Machine Learning; to appear
+* Ran Tian, Naoaki Okazaki, Kentaro Inui; Learning Semantically and Additively Compositional Distributional Representations; ACL 2016.
+* Sosuke Kobayashi, Ran Tian, Naoaki Okazaki, Kentaro Inui; Dynamic Entity Representation with Max-pooling Improves Machine Reading; NAACL 2016.
+* Corentin Dumont, Ran Tian, Kentaro Inui; Question-Answering with Logic Specific to Video Games; LREC 2016.
+* Hiroya Komatsu, Ran Tian, Naoaki Okazaki, Kentaro Inui; Reducing Lexical Features in Parsing by Word Embeddings; PACLIC 2015.
+* Yubing Dong, Ran Tian, Yusuke Miyao; Encoding Generalized Quantifiers in Dependency-based Compositional Semantics; PACLIC 2014.
+* Ran Tian, Yusuke Miyao,  Takuya Matsuzaki; Efficient Logical Inference for Semantic Processing; ACL 2014 Workshop on Semantic Parsing (SP14).
+* Ran Tian, Yusuke Miyao, Takuya Matsuzaki; Logical Inference on Dependency-based Compositional Semantics; ACL 2014.
+* Ran TIAN; The explicit calculation of Cech cohomology and an extension of Davenport’s inequality; Quart. J. Math. Oxford  2012.
+* Ran TIAN; The mathematical solution of a cellular automaton model which simulates traffic flow with a slow-to-start effect; Discrete Appl. Math. 2009.
