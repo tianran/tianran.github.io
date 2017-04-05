@@ -7,7 +7,7 @@
 * PhD, Graduate School of Mathematical Sciences, The University of Tokyo, Japan. 2012
 
 ### Publications
-* Ran Tian, Naoaki Okazaki, Kentaro Inui; *The Mechanism of Additive Composition*; Machine Learning; accepted [(paper)](https://arxiv.org/abs/1511.08407)
+* Ran Tian, Naoaki Okazaki, Kentaro Inui; *The Mechanism of Additive Composition*; Machine Learning; 2017 [(paper)](http://rdcu.be/qElf)
 * Shuangshuang Zhou, Koji Matsuda, Ran Tian, Naoaki Okazaki and Kentaro Inui; *A Pipeline Japanese Entity Linking System with Embedding Features*; PACLIC 2016. [(paper)](http://aclweb.org/anthology/Y/Y16/Y16-2025.pdf)
 * Ran Tian, Naoaki Okazaki, Kentaro Inui; *Learning Semantically and Additively Compositional Distributional Representations*; ACL 2016. [(paper)](http://aclweb.org/anthology/P/P16/P16-1121.pdf) [(code)](https://github.com/tianran/vecdcs)
 * Sosuke Kobayashi, Ran Tian, Naoaki Okazaki, Kentaro Inui; *Dynamic Entity Representation with Max-pooling Improves Machine Reading*; NAACL 2016. [(paper)](http://aclweb.org/anthology/N/N16/N16-1099.pdf) [(code)](https://github.com/soskek/der-network)
