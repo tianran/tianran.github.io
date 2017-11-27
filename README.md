@@ -6,6 +6,9 @@
 ### Education
 * PhD, Graduate School of Mathematical Sciences, The University of Tokyo, Japan. 2012
 
+### Slides
+* Tutorial Slides at IJCNLP 2017 [(Part I)](/part1.pdf) [(Part II)](/part2.pdf)
+
 ### Publications
 * Ran Tian, Naoaki Okazaki, Kentaro Inui; *The Mechanism of Additive Composition*; Machine Learning; 2017 [(paper)](http://rdcu.be/qElf)
 * Shuangshuang Zhou, Koji Matsuda, Ran Tian, Naoaki Okazaki and Kentaro Inui; *A Pipeline Japanese Entity Linking System with Embedding Features*; PACLIC 2016. [(paper)](http://aclweb.org/anthology/Y/Y16/Y16-2025.pdf)
