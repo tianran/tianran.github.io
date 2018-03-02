@@ -21,3 +21,6 @@
 * Ran Tian, Yusuke Miyao, Takuya Matsuzaki; *Logical Inference on Dependency-based Compositional Semantics*; ACL 2014. [(paper)](http://aclweb.org/anthology/P/P14/P14-1008.pdf) [(code)](https://github.com/tianran/tifmo)
 * Ran TIAN; *The explicit calculation of Cech cohomology and an extension of Davenport’s inequality*; Quart. J. Math. Oxford  2012. [(paper)](/davenport.pdf)
 * Ran TIAN; *The mathematical solution of a cellular automaton model which simulates traffic flow with a slow-to-start effect*; Discrete Appl. Math. 2009. [(paper)](/cel.pdf)
+
+### Professional Activities
+Program committee member (reviewer) for ACL2015, LREC2016, ACL2016, IJCNLP2017, LREC2018, IJCAI2018, ACL2018
