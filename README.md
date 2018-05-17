@@ -1,6 +1,7 @@
 ![photo](/photo.jpg)
 ### Biography
-* 2014 -- Now: *Research Assistant Professor*, [Communication Science Laboratory](http://www.cl.ecei.tohoku.ac.jp), Graduate School of Information Sciences, Tohoku University, Japan. 
+* 2018 -- Now: *Researcher*, [Knowledge and Information Research Team](https://www.airc.aist.go.jp/en/kirt/), AI Research Center, AIST, Japan.
+* 2014 -- 2018: *Research Assistant Professor*, [Communication Science Laboratory](http://www.cl.ecei.tohoku.ac.jp), Graduate School of Information Sciences, Tohoku University, Japan. 
 * 2012 -- 2014: *Project Researcher*, Research Center for Community Knowledge, [National Institute of Informatics](http://www.nii.ac.jp/en/), Japan. 
 
 ### Education
@@ -10,6 +11,7 @@
 * Tutorial Slides at IJCNLP 2017 [(Part I)](/part1.pdf) [(Part II)](/part2.pdf)
 
 ### Publications
+* Ryo Takahashi, Ran Tian, Kentaro Inui; *Interpretable and Compositional Relation Learning by Joint Training with an Autoencoder*; to appear in ACL 2018.
 * Ran Tian, Naoaki Okazaki, Kentaro Inui; *The Mechanism of Additive Composition*; Machine Learning; 2017 [(paper)](http://rdcu.be/qElf)
 * Shuangshuang Zhou, Koji Matsuda, Ran Tian, Naoaki Okazaki and Kentaro Inui; *A Pipeline Japanese Entity Linking System with Embedding Features*; PACLIC 2016. [(paper)](http://aclweb.org/anthology/Y/Y16/Y16-2025.pdf)
 * Ran Tian, Naoaki Okazaki, Kentaro Inui; *Learning Semantically and Additively Compositional Distributional Representations*; ACL 2016. [(paper)](http://aclweb.org/anthology/P/P16/P16-1121.pdf) [(code)](https://github.com/tianran/vecdcs)
