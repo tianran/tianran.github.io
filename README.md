@@ -25,4 +25,4 @@
 * Ran TIAN; *The mathematical solution of a cellular automaton model which simulates traffic flow with a slow-to-start effect*; Discrete Appl. Math. 2009. [(paper)](/cel.pdf)
 
 ### Professional Activities
-Program committee member (reviewer) for ACL2015, LREC2016, ACL2016, IJCNLP2017, LREC2018, IJCAI2018, ACL2018
+Program committee member (reviewer) for ACL2015, LREC2016, ACL2016, IJCNLP2017, LREC2018, IJCAI2018, ACL2018, EMNLP2018, 
