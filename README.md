@@ -1,8 +1,9 @@
 ![photo](/photo.jpg)
 ### Biography
-* 2018 -- Now: *Researcher*, [Knowledge and Information Research Team](https://www.airc.aist.go.jp/en/kirt/), AI Research Center, AIST, Japan.
-* 2014 -- 2018: *Research Assistant Professor*, [Communication Science Laboratory](http://www.cl.ecei.tohoku.ac.jp), Graduate School of Information Sciences, Tohoku University, Japan. 
-* 2012 -- 2014: *Project Researcher*, Research Center for Community Knowledge, [National Institute of Informatics](http://www.nii.ac.jp/en/), Japan. 
+* 2018.11 -- Now: *Visiting Faculty Researcher*, Google New York.
+* 2018.5 -- Now: *Researcher*, [Knowledge and Information Research Team](https://www.airc.aist.go.jp/en/kirt/), AI Research Center, AIST, Japan.
+* 2014.4 -- 2018.3: *Research Assistant Professor*, [Communication Science Laboratory](http://www.cl.ecei.tohoku.ac.jp), Graduate School of Information Sciences, Tohoku University, Japan. 
+* 2012.4 -- 2014.3: *Project Researcher*, Research Center for Community Knowledge, [National Institute of Informatics](http://www.nii.ac.jp/en/), Japan. 
 
 ### Education
 * PhD, Graduate School of Mathematical Sciences, The University of Tokyo, Japan. 2012
@@ -11,7 +12,7 @@
 * Tutorial Slides at IJCNLP 2017 [(Part I)](/part1.pdf) [(Part II)](/part2.pdf)
 
 ### Publications
-* Ryo Takahashi, Ran Tian, Kentaro Inui; *Interpretable and Compositional Relation Learning by Joint Training with an Autoencoder*; to appear in ACL 2018.
+* Ryo Takahashi, Ran Tian, Kentaro Inui; *Interpretable and Compositional Relation Learning by Joint Training with an Autoencoder*; [(paper)](http://aclweb.org/anthology/P18-1200) [(code)](https://github.com/tianran/glimvec)
 * Ran Tian, Naoaki Okazaki, Kentaro Inui; *The Mechanism of Additive Composition*; Machine Learning; 2017 [(paper)](http://rdcu.be/qElf)
 * Shuangshuang Zhou, Koji Matsuda, Ran Tian, Naoaki Okazaki and Kentaro Inui; *A Pipeline Japanese Entity Linking System with Embedding Features*; PACLIC 2016. [(paper)](http://aclweb.org/anthology/Y/Y16/Y16-2025.pdf)
 * Ran Tian, Naoaki Okazaki, Kentaro Inui; *Learning Semantically and Additively Compositional Distributional Representations*; ACL 2016. [(paper)](http://aclweb.org/anthology/P/P16/P16-1121.pdf) [(code)](https://github.com/tianran/vecdcs)
@@ -25,4 +26,4 @@
 * Ran TIAN; *The mathematical solution of a cellular automaton model which simulates traffic flow with a slow-to-start effect*; Discrete Appl. Math. 2009. [(paper)](/cel.pdf)
 
 ### Professional Activities
-Program committee member (reviewer) for ACL2015, LREC2016, ACL2016, IJCNLP2017, LREC2018, IJCAI2018, ACL2018, EMNLP2018, 
+Program committee member (reviewer) for ACL2015, LREC2016, ACL2016, IJCNLP2017, LREC2018, IJCAI2018, ACL2018, EMNLP2018, AAAI2019, 
